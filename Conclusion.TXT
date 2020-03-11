@@ -1,0 +1,1 @@
+Exporting plots we create using matplotlib allows us to use them in Word documents, Powerpoint presentations, and even in emails thus eases us in story telling.

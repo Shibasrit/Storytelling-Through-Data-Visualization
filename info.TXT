@@ -1,0 +1,1 @@
+In this project, the gender gap across all college degrees is explored using visualization. In the last step of this project, final diagram created as an image file is also exported so that it can be used for story telling using other tools.
